@@ -27,10 +27,11 @@ To keep API keys secure, this project uses a `config.js` file that is excluded f
 const CONFIG = {
 API_KEY: "YOUR_GEMINI_API_KEY"
 };
+```
 
 ---
+
 Built By: **Sura SB**
----
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surasb)
